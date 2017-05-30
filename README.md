@@ -1,4 +1,4 @@
-# Gensym
+## Gensym [![Build Status](https://secure.travis-ci.org/hrs/gensym.png?branch=master&.png)](http://travis-ci.org/hrs/gensym) [![Code Climate](https://codeclimate.com/github/hrs/gensym/badges/gpa.svg)](https://codeclimate.com/github/hrs/gensym)
 
 Generate new, unbound variable names in your Ruby program. An homage to Lisp's
 `gensym` macro.
